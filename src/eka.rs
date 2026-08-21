@@ -9,3 +9,8 @@
 
     //we can also break up a line in the middle of a sentence. This goes for both print!() and println!()
     print!("Hello Kavindu Eranga \n How Are You ?");
+
+    // if We Use  println without ! it Is Function
+    //println!() -  Print Statement - macro
+    //println    -  function
+
