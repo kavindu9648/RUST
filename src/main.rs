@@ -1,7 +1,5 @@
 fn main(){
- print!("Hello Kavindu Eranga");
+ print!("Hello Kavindu Eranga\n");
  
- 
-   
 
 }
