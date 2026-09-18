@@ -1,7 +1,4 @@
-fn main(){
- print!("Hello Kavindu Eranga\n");
- 
- let a = String::from("Hello");
+let a = String::from("Hello");
 let b = &a;
 
 println!("a={}",a);
@@ -11,6 +8,3 @@ let mut name=String::from("Kavindu");
 let name_ref=&mut name;
 name_ref.push_str("Eranga");
 println!("{}",name_ref);
-}
-
-
